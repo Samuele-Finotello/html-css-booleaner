@@ -1,70 +1,28 @@
-Title
+The Booleaner
 ===
-Abstract:xxx
-## Papar Information
-- Title:  `paper name`
-- Authors:  `A`,`B`,`C`
-- Preprint: [https://arxiv.org/abs/xx]()
-- Full-preprint: [paper position]()
-- Video: [video position]()
+Riproducete il il layout in allegato utilizzando l'approccio visto in classe.
+Fate un piccolo blocco alla volta aggiungendo ad ogni step le regole css.
+Come sempre aiutatevi con le slide e tutto ciò che avete a disposizione.
 
-## Install & Dependence
-- python
-- pytorch
-- numpy
+Attenzione:
+Nel caso non vi venga in mente come spaziare il contenuto interno all'header non preoccupatevi, passate oltre! Potreste aver bisogno di una regola css che avete usato durante il fundamental... 😃
 
-## Dataset Preparation
-| Dataset | Download |
-| ---     | ---   |
-| dataset-A | [download]() |
-| dataset-B | [download]() |
-| dataset-C | [download]() |
+Bonus
+Partendo dallo stesso HTML, create un secondo file CSS per crearne una versione diversa.
+Si può fare? Alla grande! https://stylestage.dev/
+Questa versione avrà il corpo pagina più stretto e centrato. Occhio all'header il cui background rimane invece a tutta pagina.
+ATTENZIONE: Questa tecnica NON è stata spiegata stamattina 😉 
 
-## Use
-- for train
-  ```
-  python train.py
-  ```
-- for test
-  ```
-  python test.py
-  ```
-## Pretrained model
-| Model | Download |
-| ---     | ---   |
-| Model-1 | [download]() |
-| Model-2 | [download]() |
-| Model-3 | [download]() |
+Consegna
+Riproducete il layout dell'immagine allegata utilizzando ciò che abbiamo visto stamattina aiutandovi con le slide, video e documentazione.
+Come l'esercizio scorso e d'ora in avanti sempre, faremo questo:
+Create una nuova cartella con nome html-css-booleaner,
+Apritela con VSCode e create il file index.html (sarà la prima pagina ad aprirsi in un sito).,
+Attenzione: per i nomi dei file usate sempre lettere minuscole e trattini al posto degli spazi :);
+All'interno della cartella del repo, create una sottocartella img nella quale inserirete le immagini necessarie.,
+Sempre nella cartella create la cartella css nella quale inserirete creandolo il vostro file.,
+Ora, andiamo sul tab GIT e clicchiamo “Publish on GitHub”, ricordando poi di selezionare una repo pubblica,
+Poi clicchiamo ok e verifichiamo che la repo sia stata creata effettivamente su GitHub prima di procedere con l’esercizio,
 
-
-## Directory Hierarchy
-```
-```
-## Code Details
-### Tested Platform
-- software
-  ```
-  OS: Debian unstable (May 2021), Ubuntu LTS
-  Python: 3.8.5 (anaconda)
-  PyTorch: 1.7.1, 1.8.1
-  ```
-- hardware
-  ```
-  CPU: Intel Xeon 6226R
-  GPU: Nvidia RTX3090 (24GB)
-  ```
-### Hyper parameters
-```
-```
-## References
-- [paper-1]()
-- [paper-2]()
-- [code-1](https://github.com)
-- [code-2](https://github.com)
-  
-## License
-
-## Citing
-If you use xxx,please use the following BibTeX entry.
-```
-```
+Ricordatevi di pushare di tanto in tanto per consegnare il vostro lavoro in modo incrementale e il primo commit/push deve sempre essere il file README con la consegna.
+Buon lavoro!

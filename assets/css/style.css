@@ -1,0 +1,17 @@
+body {
+  margin: 0px;
+}
+
+header {
+  height: 75px;
+  background-color: rgb(78, 161, 255);
+  background-image: url(../img/pattern.png);
+  background-position: top;
+  background-size: 300px;
+}
+
+img {
+  width: 150px;
+  height: 35px;
+  margin-top: 31px;
+}
