@@ -1,3 +1,5 @@
+/* Intestazione */
+
 header {
   height: 75px;
   background-color: rgb(78, 161, 255);
@@ -6,19 +8,7 @@ header {
   background-size: 304px;
 }
 
-#logo {
-  width: 155px;
-  height: 37px;
-  margin-top: 33px;
-}
-
-#monitor {
-  background-image: url(../img/monitor.jpg);
-}
-
-#graph {
-  background-image: url(../img/graph.jpg);
-}
+/* Tag HTML */
 
 h1 {
   margin-bottom: 0px;
@@ -37,17 +27,33 @@ div {
   height: 205px;
 }
 
-.left {
-  margin-left: 0px;
+/* Identità */
+
+#logo {
+  width: 155px;
+  height: 37px;
+  margin-top: 33px;
 }
 
-.bottom {
-  margin-bottom: 0px;
+#monitor {
+  background-image: url(../img/monitor.jpg);
 }
 
-.top {
-  margin-top: 0px;
+#graph {
+  background-image: url(../img/graph.jpg);
 }
+
+#tim-1 {
+  width: 410px;
+  height: 275px;
+}
+
+#tim-2 {
+  width: 350px;
+  height: 275px;
+}
+
+/* Classi */
 
 .text-gray {
   color: rgb(150, 150, 150);
@@ -65,15 +71,28 @@ div {
   padding-top: 20px;
 }
 
-#tim-1 {
-  width: 410px;
-  height: 275px;
+.background-white {
+  background-color: white;
 }
 
-#tim-2 {
-  width: 350px;
-  height: 275px;
+.width {
+  width: 50%;
 }
+
+/* Classi per margine */
+.left {
+  margin-left: 0px;
+}
+
+.bottom {
+  margin-bottom: 0px;
+}
+
+.top {
+  margin-top: 0px;
+}
+
+/* Tag Tabella */
 
 table {
   border-collapse: collapse;
@@ -87,12 +106,4 @@ thead {
 
 tbody {
   background-color: rgb(177, 230, 242);
-}
-
-.background-white {
-  background-color: white;
-}
-
-.width {
-  width: 50%;
 }
