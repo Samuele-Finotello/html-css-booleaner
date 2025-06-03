@@ -1,17 +1,52 @@
-body {
-  margin: 0px;
-}
-
 header {
   height: 75px;
   background-color: rgb(78, 161, 255);
   background-image: url(../img/pattern.png);
-  background-position: top;
-  background-size: 300px;
+  background-position: top right;
+  background-size: 304px;
 }
 
 #logo {
-  width: 150px;
-  height: 35px;
-  margin-top: 31px;
+  width: 155px;
+  height: 37px;
+  margin-top: 33px;
+}
+
+h1 {
+  margin-bottom: 0px;
+}
+
+strong {
+  color: rgb(62, 174, 219);
+}
+
+.left {
+  margin-left: 0px;
+}
+
+.bottom {
+  margin-bottom: 0px;
+}
+
+.top {
+  margin-top: 0px;
+}
+
+.text-gray {
+  color: rgb(150, 150, 150);
+  font-weight: 600;
+}
+
+.text-small {
+  font-size: 10px;
+}
+
+#tim-1 {
+  width: 410px;
+  height: 275px;
+}
+
+#tim-2 {
+  width: 350px;
+  height: 275px;
 }
