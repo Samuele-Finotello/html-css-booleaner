@@ -12,6 +12,14 @@ header {
   margin-top: 33px;
 }
 
+#monitor {
+  background-image: url(../img/monitor.jpg);
+}
+
+#graph {
+  background-image: url(../img/graph.jpg);
+}
+
 h1 {
   margin-bottom: 0px;
 }
@@ -22,6 +30,11 @@ ul {
 
 strong {
   color: rgb(62, 174, 219);
+}
+
+div {
+  width: 270px;
+  height: 205px;
 }
 
 .left {
@@ -43,6 +56,13 @@ strong {
 
 .text-small {
   font-size: 10px;
+}
+
+.suggested {
+  color: white;
+  font-size: 20px;
+  padding-left: 15px;
+  padding-top: 20px;
 }
 
 #tim-1 {
