@@ -16,6 +16,10 @@ h1 {
   margin-bottom: 0px;
 }
 
+ul {
+  padding-left: 15px;
+}
+
 strong {
   color: rgb(62, 174, 219);
 }
@@ -49,4 +53,26 @@ strong {
 #tim-2 {
   width: 350px;
   height: 275px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+thead {
+  color: white;
+  background-color: rgb(27, 173, 226);
+  text-align: left;
+}
+
+tbody {
+  background-color: rgb(177, 230, 242);
+}
+
+.background-white {
+  background-color: white;
+}
+
+.width {
+  width: 50%;
 }
